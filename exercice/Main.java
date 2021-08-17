@@ -9,7 +9,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		// créer une lite qui va stocker le nom de plusieurs jouets (1.1)
+		// créer une liste qui va stocker le nom de plusieurs jouets (1.1)
 
 		/*
 		 * List<String> jouets = new ArrayList<>(); jouets.add("Scrabble Deluxe");
